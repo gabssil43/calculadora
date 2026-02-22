@@ -3,6 +3,9 @@
 from tkinter import *
 from tkinter import ttk
 
+
+
+
 #cores
 cor1 = "#8A4EBB" 
 cor2= "#755491"
